@@ -1,0 +1,601 @@
+instance_id	language	model	harness	feature_score	features_accepted	features_graded	test_pass_rate
+9600dev__mmr__5ac9b3d	python	claude-opus-5-5	Claude Code 2.1.311	0.6000	12	20	0.9851
+9600dev__mmr__5ac9b3d	python	gpt-6.1-sol	Codex 0.164.0	0.5500	11	20	0.9703
+9600dev__mmr__5ac9b3d	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3500	7	20	0.9182
+9600dev__mmr__5ac9b3d	python	grok-4.7	Claude Code 2.1.311	0.1000	2	20	0.8126
+AFCProject__AFC-Klipper-Add-On__5ea84ea	python	claude-opus-5-5	Claude Code 2.1.311	0.7222	39	54	0.9320
+AFCProject__AFC-Klipper-Add-On__5ea84ea	python	gpt-6.1-sol	Codex 0.164.0	0.6296	34	54	0.8556
+AFCProject__AFC-Klipper-Add-On__5ea84ea	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4815	26	54	0.8162
+AFCProject__AFC-Klipper-Add-On__5ea84ea	python	grok-4.7	Claude Code 2.1.311	0.1852	10	54	0.4916
+agessaman__meshcore-bot__7a6580c	python	claude-opus-5-5	Claude Code 2.1.311	0.3636	40	110	0.4915
+agessaman__meshcore-bot__7a6580c	python	gpt-6.1-sol	Codex 0.164.0	0.7727	85	110	0.9599
+agessaman__meshcore-bot__7a6580c	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3000	33	110	0.4927
+agessaman__meshcore-bot__7a6580c	python	grok-4.7	Claude Code 2.1.311	0.1909	21	110	0.4550
+aiming-lab__AutoResearchClaw__be4ba47	python	claude-opus-5-5	Claude Code 2.1.311	0.9811	156	159	0.9976
+aiming-lab__AutoResearchClaw__be4ba47	python	gpt-6.1-sol	Codex 0.164.0	0.1447	23	159	0.4957
+aiming-lab__AutoResearchClaw__be4ba47	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.8679	138	159	0.9268
+aiming-lab__AutoResearchClaw__be4ba47	python	grok-4.7	Claude Code 2.1.311	0.8428	134	159	0.9599
+air-embodied-brain__Zetta-Embodiment__1fee179	python	claude-opus-5-5	Claude Code 2.1.311	0.0000	0	9	0.6121
+air-embodied-brain__Zetta-Embodiment__1fee179	python	gpt-6.1-sol	Codex 0.164.0	0.0000	0	9	0.6121
+air-embodied-brain__Zetta-Embodiment__1fee179	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.0000	0	9	0.5409
+air-embodied-brain__Zetta-Embodiment__1fee179	python	grok-4.7	Claude Code 2.1.311	0.0000	0	9	0.4875
+Alpha-Dojo__DojoAgents__4b87733	python	claude-opus-5-5	Claude Code 2.1.311	0.2500	5	20	0.9384
+Alpha-Dojo__DojoAgents__4b87733	python	gpt-6.1-sol	Codex 0.164.0	0.2000	4	20	0.9459
+Alpha-Dojo__DojoAgents__4b87733	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2000	4	20	0.8881
+Alpha-Dojo__DojoAgents__4b87733	python	grok-4.7	Claude Code 2.1.311	0.0000	0	20	0.6884
+amathislab__DLC2action__1d7d690	python	claude-opus-5-5	Claude Code 2.1.311	1.0000	26	26	1.0000
+amathislab__DLC2action__1d7d690	python	gpt-6.1-sol	Codex 0.164.0	0.6154	16	26	0.9206
+amathislab__DLC2action__1d7d690	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.5769	15	26	0.8889
+amathislab__DLC2action__1d7d690	python	grok-4.7	Claude Code 2.1.311	0.3462	9	26	0.2698
+angr__angr-platforms__92ddcc8	python	claude-opus-5-5	Claude Code 2.1.311	1.0000	21	21	1.0000
+angr__angr-platforms__92ddcc8	python	gpt-6.1-sol	Codex 0.164.0	0.3810	8	21	0.4545
+angr__angr-platforms__92ddcc8	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3810	8	21	0.7727
+angr__angr-platforms__92ddcc8	python	grok-4.7	Claude Code 2.1.311	0.0000	0	21	0.0455
+baileyh8__hermes-feishu-streaming-card__f6be2d1	python	claude-opus-5-5	Claude Code 2.1.311	0.4444	4	9	0.9200
+baileyh8__hermes-feishu-streaming-card__f6be2d1	python	gpt-6.1-sol	Codex 0.164.0	0.5556	5	9	0.9305
+baileyh8__hermes-feishu-streaming-card__f6be2d1	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1111	1	9	0.7768
+baileyh8__hermes-feishu-streaming-card__f6be2d1	python	grok-4.7	Claude Code 2.1.311	0.0000	0	9	0.6737
+brycewang-stanford__StatsPAI__a436da9	python	claude-opus-5-5	Claude Code 2.1.311	0.6081	45	74	0.9694
+brycewang-stanford__StatsPAI__a436da9	python	gpt-6.1-sol	Codex 0.164.0	0.4730	35	74	0.9348
+brycewang-stanford__StatsPAI__a436da9	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4189	31	74	0.8815
+brycewang-stanford__StatsPAI__a436da9	python	grok-4.7	Claude Code 2.1.311	0.2703	20	74	0.6633
+chengxianglibra__marivo__86055a2	python	claude-opus-5-5	Claude Code 2.1.311	0.4684	37	79	0.8471
+chengxianglibra__marivo__86055a2	python	gpt-6.1-sol	Codex 0.164.0	0.4177	33	79	0.8703
+chengxianglibra__marivo__86055a2	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2785	22	79	0.7653
+chengxianglibra__marivo__86055a2	python	grok-4.7	Claude Code 2.1.311	0.1139	9	79	0.3488
+Cisco-Talos__EvidenceForge__fca9666	python	claude-opus-5-5	Claude Code 2.1.311	0.2368	27	114	0.7128
+Cisco-Talos__EvidenceForge__fca9666	python	gpt-6.1-sol	Codex 0.164.0	0.1754	20	114	0.6845
+Cisco-Talos__EvidenceForge__fca9666	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1404	16	114	0.5102
+Cisco-Talos__EvidenceForge__fca9666	python	grok-4.7	Claude Code 2.1.311	0.0263	3	114	0.2251
+Clinical-Genomics__cg__c8d8e35	python	claude-opus-5-5	Claude Code 2.1.311	0.5437	112	206	0.8253
+Clinical-Genomics__cg__c8d8e35	python	gpt-6.1-sol	Codex 0.164.0	0.4223	87	206	0.7946
+Clinical-Genomics__cg__c8d8e35	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3204	66	206	0.6380
+Clinical-Genomics__cg__c8d8e35	python	grok-4.7	Claude Code 2.1.311	0.0000	0	206	0.0000
+cognitedata__cognite-sdk-python__f743bf3	python	claude-opus-5-5	Claude Code 2.1.311	0.8407	95	113	0.9791
+cognitedata__cognite-sdk-python__f743bf3	python	gpt-6.1-sol	Codex 0.164.0	0.2743	31	113	0.7141
+cognitedata__cognite-sdk-python__f743bf3	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3451	39	113	0.7770
+cognitedata__cognite-sdk-python__f743bf3	python	grok-4.7	Claude Code 2.1.311	0.0000	0	113	0.0000
+conradry__prtm__3256c11	python	claude-opus-5-5	Claude Code 2.1.311	0.6667	4	6	0.7895
+conradry__prtm__3256c11	python	gpt-6.1-sol	Codex 0.164.0	0.3333	2	6	0.7368
+conradry__prtm__3256c11	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3333	2	6	0.7368
+conradry__prtm__3256c11	python	grok-4.7	Claude Code 2.1.311	0.3333	2	6	0.7368
+cubed-dev__cubed__f81f518	python	claude-opus-5-5	Claude Code 2.1.311	0.8000	60	75	0.9906
+cubed-dev__cubed__f81f518	python	gpt-6.1-sol	Codex 0.164.0	0.3600	27	75	0.7906
+cubed-dev__cubed__f81f518	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.6000	45	75	0.8921
+cubed-dev__cubed__f81f518	python	grok-4.7	Claude Code 2.1.311	0.0533	4	75	0.0534
+eakmanrq__sqlframe__7c98f85	python	claude-opus-5-5	Claude Code 2.1.311	0.7500	24	32	0.9860
+eakmanrq__sqlframe__7c98f85	python	gpt-6.1-sol	Codex 0.164.0	0.4062	13	32	0.8605
+eakmanrq__sqlframe__7c98f85	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2188	7	32	0.4930
+eakmanrq__sqlframe__7c98f85	python	grok-4.7	Claude Code 2.1.311	0.2812	9	32	0.7628
+emmo-repo__EMMOntoPy__c637c20	python	claude-opus-5-5	Claude Code 2.1.311	0.8462	22	26	0.9318
+emmo-repo__EMMOntoPy__c637c20	python	gpt-6.1-sol	Codex 0.164.0	0.8077	21	26	0.9318
+emmo-repo__EMMOntoPy__c637c20	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.7308	19	26	0.8864
+emmo-repo__EMMOntoPy__c637c20	python	grok-4.7	Claude Code 2.1.311	0.2308	6	26	0.5000
+feiskyer__koder__7abc6cf	python	claude-opus-5-5	Claude Code 2.1.311	0.0000	0	21	0.0752
+feiskyer__koder__7abc6cf	python	gpt-6.1-sol	Codex 0.164.0	0.0952	2	21	0.8662
+feiskyer__koder__7abc6cf	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.0952	2	21	0.6353
+feiskyer__koder__7abc6cf	python	grok-4.7	Claude Code 2.1.311	0.0000	0	21	0.6654
+FreeOpcUa__opcua-asyncio__66f5bca	python	claude-opus-5-5	Claude Code 2.1.311	0.4792	23	48	0.7315
+FreeOpcUa__opcua-asyncio__66f5bca	python	gpt-6.1-sol	Codex 0.164.0	0.5000	24	48	0.8758
+FreeOpcUa__opcua-asyncio__66f5bca	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.0000	0	48	0.0000
+FreeOpcUa__opcua-asyncio__66f5bca	python	grok-4.7	Claude Code 2.1.311	0.0000	0	48	0.0000
+FreeOpcUa__python-opcua__fdf5f3c	python	claude-opus-5-5	Claude Code 2.1.311	0.8500	17	20	0.9964
+FreeOpcUa__python-opcua__fdf5f3c	python	gpt-6.1-sol	Codex 0.164.0	0.2000	4	20	0.6145
+FreeOpcUa__python-opcua__fdf5f3c	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1500	3	20	0.6691
+FreeOpcUa__python-opcua__fdf5f3c	python	grok-4.7	Claude Code 2.1.311	0.0000	0	20	0.2836
+freqtrade__freqtrade__d6a0721	python	claude-opus-5-5	Claude Code 2.1.311	0.5000	11	22	0.9872
+freqtrade__freqtrade__d6a0721	python	gpt-6.1-sol	Codex 0.164.0	0.2727	6	22	0.8770
+freqtrade__freqtrade__d6a0721	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.0455	1	22	0.5080
+freqtrade__freqtrade__d6a0721	python	grok-4.7	Claude Code 2.1.311	0.0000	0	22	0.0000
+fuyuxiang__echo-agent__f612b74	python	claude-opus-5-5	Claude Code 2.1.311	0.7313	215	294	0.9156
+fuyuxiang__echo-agent__f612b74	python	gpt-6.1-sol	Codex 0.164.0	0.3197	94	294	0.4729
+fuyuxiang__echo-agent__f612b74	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.5000	147	294	0.7701
+fuyuxiang__echo-agent__f612b74	python	grok-4.7	Claude Code 2.1.311	0.2075	61	294	0.3823
+generative-computing__mellea__8bcb2b9	python	claude-opus-5-5	Claude Code 2.1.311	0.7407	20	27	0.9904
+generative-computing__mellea__8bcb2b9	python	gpt-6.1-sol	Codex 0.164.0	0.5926	16	27	0.9859
+generative-computing__mellea__8bcb2b9	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1111	3	27	0.7567
+generative-computing__mellea__8bcb2b9	python	grok-4.7	Claude Code 2.1.311	0.1111	3	27	0.8205
+GhostInShells__MOSShell__aa37ddb	python	claude-opus-5-5	Claude Code 2.1.311	0.4848	16	33	0.9488
+GhostInShells__MOSShell__aa37ddb	python	gpt-6.1-sol	Codex 0.164.0	0.2727	9	33	0.8884
+GhostInShells__MOSShell__aa37ddb	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2121	7	33	0.8472
+GhostInShells__MOSShell__aa37ddb	python	grok-4.7	Claude Code 2.1.311	0.1212	4	33	0.6715
+github__spec-kit__d848fb4	python	claude-opus-5-5	Claude Code 2.1.311	0.7143	5	7	0.9856
+github__spec-kit__d848fb4	python	gpt-6.1-sol	Codex 0.164.0	0.4286	3	7	0.8837
+github__spec-kit__d848fb4	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1429	1	7	0.8177
+github__spec-kit__d848fb4	python	grok-4.7	Claude Code 2.1.311	0.1429	1	7	0.7926
+grelinfo__grelmicro__8fa52d4	python	claude-opus-5-5	Claude Code 2.1.311	0.2308	6	26	0.8578
+grelinfo__grelmicro__8fa52d4	python	gpt-6.1-sol	Codex 0.164.0	0.3077	8	26	0.9367
+grelinfo__grelmicro__8fa52d4	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.0769	2	26	0.7254
+grelinfo__grelmicro__8fa52d4	python	grok-4.7	Claude Code 2.1.311	0.0000	0	26	0.4404
+haowjy__meridian-cli__d6ccbde	python	claude-opus-5-5	Claude Code 2.1.311	0.2759	8	29	0.8190
+haowjy__meridian-cli__d6ccbde	python	gpt-6.1-sol	Codex 0.164.0	0.2069	6	29	0.7745
+haowjy__meridian-cli__d6ccbde	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1034	3	29	0.6469
+haowjy__meridian-cli__d6ccbde	python	grok-4.7	Claude Code 2.1.311	0.1379	4	29	0.5312
+huggingface__peft__0e8d0ae	python	claude-opus-5-5	Claude Code 2.1.311	0.5696	45	79	0.9790
+huggingface__peft__0e8d0ae	python	gpt-6.1-sol	Codex 0.164.0	0.3291	26	79	0.9045
+huggingface__peft__0e8d0ae	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1519	12	79	0.7984
+huggingface__peft__0e8d0ae	python	grok-4.7	Claude Code 2.1.311	0.0000	0	79	0.0022
+Intuition-Lab__personal-model__b7a28ff	python	claude-opus-5-5	Claude Code 2.1.311	0.6864	81	118	0.9312
+Intuition-Lab__personal-model__b7a28ff	python	gpt-6.1-sol	Codex 0.164.0	0.5678	67	118	0.8926
+Intuition-Lab__personal-model__b7a28ff	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4237	50	118	0.8029
+Intuition-Lab__personal-model__b7a28ff	python	grok-4.7	Claude Code 2.1.311	0.1949	23	118	0.6048
+jborean93__smbprotocol__55d8294	python	claude-opus-5-5	Claude Code 2.1.311	0.9091	10	11	0.9971
+jborean93__smbprotocol__55d8294	python	gpt-6.1-sol	Codex 0.164.0	0.5455	6	11	0.9827
+jborean93__smbprotocol__55d8294	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2727	3	11	0.4784
+jborean93__smbprotocol__55d8294	python	grok-4.7	Claude Code 2.1.311	0.0909	1	11	0.8357
+kapitalismho__PuriPuly-heart__991ef0b	python	claude-opus-5-5	Claude Code 2.1.311	0.2466	55	223	0.4019
+kapitalismho__PuriPuly-heart__991ef0b	python	gpt-6.1-sol	Codex 0.164.0	0.3408	76	223	0.4863
+kapitalismho__PuriPuly-heart__991ef0b	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1076	24	223	0.1385
+kapitalismho__PuriPuly-heart__991ef0b	python	grok-4.7	Claude Code 2.1.311	0.0942	21	223	0.1992
+Kozea__WeasyPrint__fe648ff	python	claude-opus-5-5	Claude Code 2.1.311	0.7500	15	20	0.9891
+Kozea__WeasyPrint__fe648ff	python	gpt-6.1-sol	Codex 0.164.0	0.6000	12	20	0.9745
+Kozea__WeasyPrint__fe648ff	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4500	9	20	0.7000
+Kozea__WeasyPrint__fe648ff	python	grok-4.7	Claude Code 2.1.311	0.4000	8	20	0.9109
+kunifujiwara__VoxCity__9f4d5b0	python	claude-opus-5-5	Claude Code 2.1.311	0.8000	20	25	0.9955
+kunifujiwara__VoxCity__9f4d5b0	python	gpt-6.1-sol	Codex 0.164.0	0.5600	14	25	0.9601
+kunifujiwara__VoxCity__9f4d5b0	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3200	8	25	0.9504
+kunifujiwara__VoxCity__9f4d5b0	python	grok-4.7	Claude Code 2.1.311	0.1600	4	25	0.9085
+liiiiiiiiil__coding-agent-from-scratch__cd7ec0e	python	claude-opus-5-5	Claude Code 2.1.311	0.5116	22	43	0.8785
+liiiiiiiiil__coding-agent-from-scratch__cd7ec0e	python	gpt-6.1-sol	Codex 0.164.0	0.5349	23	43	0.8178
+liiiiiiiiil__coding-agent-from-scratch__cd7ec0e	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2093	9	43	0.4980
+liiiiiiiiil__coding-agent-from-scratch__cd7ec0e	python	grok-4.7	Claude Code 2.1.311	0.1628	7	43	0.3239
+Mathics3__mathics-core__e2ea72b	python	claude-opus-5-5	Claude Code 2.1.311	0.5349	23	43	0.9463
+Mathics3__mathics-core__e2ea72b	python	gpt-6.1-sol	Codex 0.164.0	0.5349	23	43	0.8785
+Mathics3__mathics-core__e2ea72b	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3488	15	43	0.5946
+Mathics3__mathics-core__e2ea72b	python	grok-4.7	Claude Code 2.1.311	0.0000	0	43	0.0369
+MetPX__sarracenia__ea03889	python	claude-opus-5-5	Claude Code 2.1.311	0.9831	58	59	0.9592
+MetPX__sarracenia__ea03889	python	gpt-6.1-sol	Codex 0.164.0	0.3898	23	59	0.5357
+MetPX__sarracenia__ea03889	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.7458	44	59	0.8673
+MetPX__sarracenia__ea03889	python	grok-4.7	Claude Code 2.1.311	0.2542	15	59	0.5000
+mikedh__trimesh__fcf660f	python	claude-opus-5-5	Claude Code 2.1.311	0.7706	84	109	0.9760
+mikedh__trimesh__fcf660f	python	gpt-6.1-sol	Codex 0.164.0	0.0092	1	109	0.0370
+mikedh__trimesh__fcf660f	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2477	27	109	0.7283
+mikedh__trimesh__fcf660f	python	grok-4.7	Claude Code 2.1.311	0.0092	1	109	0.0166
+mishka-zz__freecad-microwave__4f57897	python	claude-opus-5-5	Claude Code 2.1.311	0.0204	2	98	0.0421
+mishka-zz__freecad-microwave__4f57897	python	gpt-6.1-sol	Codex 0.164.0	0.2347	23	98	0.6305
+mishka-zz__freecad-microwave__4f57897	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1429	14	98	0.4610
+mishka-zz__freecad-microwave__4f57897	python	grok-4.7	Claude Code 2.1.311	0.0306	3	98	0.2990
+modflowpy__flopy__999b055	python	claude-opus-5-5	Claude Code 2.1.311	0.5538	103	186	0.9368
+modflowpy__flopy__999b055	python	gpt-6.1-sol	Codex 0.164.0	0.2366	44	186	0.6053
+modflowpy__flopy__999b055	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1398	26	186	0.4842
+modflowpy__flopy__999b055	python	grok-4.7	Claude Code 2.1.311	0.0860	16	186	0.2921
+nadeemfareed__FAST-GC__8e44321	python	claude-opus-5-5	Claude Code 2.1.311	0.7333	11	15	0.9074
+nadeemfareed__FAST-GC__8e44321	python	gpt-6.1-sol	Codex 0.164.0	0.6667	10	15	0.9259
+nadeemfareed__FAST-GC__8e44321	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.6667	10	15	0.8519
+nadeemfareed__FAST-GC__8e44321	python	grok-4.7	Claude Code 2.1.311	0.4667	7	15	0.7407
+nschaetti__EchoTorch__56c5d64	python	claude-opus-5-5	Claude Code 2.1.311	0.7812	25	32	0.9725
+nschaetti__EchoTorch__56c5d64	python	gpt-6.1-sol	Codex 0.164.0	0.4688	15	32	0.9266
+nschaetti__EchoTorch__56c5d64	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3750	12	32	0.8991
+nschaetti__EchoTorch__56c5d64	python	grok-4.7	Claude Code 2.1.311	0.2812	9	32	0.8624
+NygenAnalytics__scarf__73f43d1	python	claude-opus-5-5	Claude Code 2.1.311	0.3800	57	150	0.7418
+NygenAnalytics__scarf__73f43d1	python	gpt-6.1-sol	Codex 0.164.0	0.4067	61	150	0.7064
+NygenAnalytics__scarf__73f43d1	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2467	37	150	0.6473
+NygenAnalytics__scarf__73f43d1	python	grok-4.7	Claude Code 2.1.311	0.1133	17	150	0.2936
+on4r4p__Chunklate__419faf9	python	claude-opus-5-5	Claude Code 2.1.311	0.6200	62	100	0.9060
+on4r4p__Chunklate__419faf9	python	gpt-6.1-sol	Codex 0.164.0	0.2500	25	100	0.4729
+on4r4p__Chunklate__419faf9	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.5200	52	100	0.6977
+on4r4p__Chunklate__419faf9	python	grok-4.7	Claude Code 2.1.311	0.4700	47	100	0.6803
+Open-MSS__MSS__7076356	python	claude-opus-5-5	Claude Code 2.1.311	0.0000	0	85	0.0000
+Open-MSS__MSS__7076356	python	gpt-6.1-sol	Codex 0.164.0	0.1059	9	85	0.3154
+Open-MSS__MSS__7076356	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3294	28	85	0.5744
+Open-MSS__MSS__7076356	python	grok-4.7	Claude Code 2.1.311	0.2000	17	85	0.3077
+openmagi__magi-agent__731d19d	python	claude-opus-5-5	Claude Code 2.1.311	0.3333	3	9	0.9033
+openmagi__magi-agent__731d19d	python	gpt-6.1-sol	Codex 0.164.0	0.3333	3	9	0.9383
+openmagi__magi-agent__731d19d	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3333	3	9	0.8827
+openmagi__magi-agent__731d19d	python	grok-4.7	Claude Code 2.1.311	0.2222	2	9	0.7305
+openstack__magnum__998c576	python	claude-opus-5-5	Claude Code 2.1.311	0.5789	11	19	0.7664
+openstack__magnum__998c576	python	gpt-6.1-sol	Codex 0.164.0	0.0000	0	19	0.1055
+openstack__magnum__998c576	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.0000	0	19	0.0813
+openstack__magnum__998c576	python	grok-4.7	Claude Code 2.1.311	0.0000	0	19	0.0882
+pdm-project__pdm__dea18eb	python	claude-opus-5-5	Claude Code 2.1.311	0.8036	45	56	0.9686
+pdm-project__pdm__dea18eb	python	gpt-6.1-sol	Codex 0.164.0	0.4464	25	56	0.8834
+pdm-project__pdm__dea18eb	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3929	22	56	0.6667
+pdm-project__pdm__dea18eb	python	grok-4.7	Claude Code 2.1.311	0.1429	8	56	0.3871
+promptfoo__modelaudit__fafb9fb	python	claude-opus-5-5	Claude Code 2.1.311	0.3810	8	21	0.8958
+promptfoo__modelaudit__fafb9fb	python	gpt-6.1-sol	Codex 0.164.0	0.4286	9	21	0.8641
+promptfoo__modelaudit__fafb9fb	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1905	4	21	0.8075
+promptfoo__modelaudit__fafb9fb	python	grok-4.7	Claude Code 2.1.311	0.0952	2	21	0.6994
+pydcs__dcs__55dc18a	python	claude-opus-5-5	Claude Code 2.1.311	0.8750	42	48	0.9722
+pydcs__dcs__55dc18a	python	gpt-6.1-sol	Codex 0.164.0	0.0000	0	48	0.0000
+pydcs__dcs__55dc18a	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2917	14	48	0.5556
+pydcs__dcs__55dc18a	python	grok-4.7	Claude Code 2.1.311	0.0000	0	48	0.0000
+rackspace__runway__238f693	python	claude-opus-5-5	Claude Code 2.1.311	0.9615	25	26	0.9989
+rackspace__runway__238f693	python	gpt-6.1-sol	Codex 0.164.0	0.6154	16	26	0.9632
+rackspace__runway__238f693	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3462	9	26	0.9112
+rackspace__runway__238f693	python	grok-4.7	Claude Code 2.1.311	0.3077	8	26	0.6511
+Rimagination__scansci-harness__3bd6369	python	claude-opus-5-5	Claude Code 2.1.311	0.1677	26	155	0.2065
+Rimagination__scansci-harness__3bd6369	python	gpt-6.1-sol	Codex 0.164.0	0.5613	87	155	0.8028
+Rimagination__scansci-harness__3bd6369	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.5290	82	155	0.7283
+Rimagination__scansci-harness__3bd6369	python	grok-4.7	Claude Code 2.1.311	0.3742	58	155	0.5512
+rungalileo__galileo-python__a1a0821	python	claude-opus-5-5	Claude Code 2.1.311	0.7647	52	68	0.9746
+rungalileo__galileo-python__a1a0821	python	gpt-6.1-sol	Codex 0.164.0	0.6324	43	68	0.9465
+rungalileo__galileo-python__a1a0821	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4265	29	68	0.8386
+rungalileo__galileo-python__a1a0821	python	grok-4.7	Claude Code 2.1.311	0.2647	18	68	0.6439
+scverse__scanpy__7db89c6	python	claude-opus-5-5	Claude Code 2.1.311	0.7674	33	43	0.9525
+scverse__scanpy__7db89c6	python	gpt-6.1-sol	Codex 0.164.0	0.5581	24	43	0.7029
+scverse__scanpy__7db89c6	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3721	16	43	0.6162
+scverse__scanpy__7db89c6	python	grok-4.7	Claude Code 2.1.311	0.1628	7	43	0.4732
+shisa-ai__hipEngine__9c31ba9	python	claude-opus-5-5	Claude Code 2.1.311	0.8136	96	118	0.9068
+shisa-ai__hipEngine__9c31ba9	python	gpt-6.1-sol	Codex 0.164.0	0.6186	73	118	0.7849
+shisa-ai__hipEngine__9c31ba9	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.5678	67	118	0.6380
+shisa-ai__hipEngine__9c31ba9	python	grok-4.7	Claude Code 2.1.311	0.1610	19	118	0.2545
+skfolio__skfolio__961ebc0	python	claude-opus-5-5	Claude Code 2.1.311	0.8644	51	59	0.9893
+skfolio__skfolio__961ebc0	python	gpt-6.1-sol	Codex 0.164.0	0.0000	0	59	0.0000
+skfolio__skfolio__961ebc0	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4915	29	59	0.8913
+skfolio__skfolio__961ebc0	python	grok-4.7	Claude Code 2.1.311	0.2712	16	59	0.6805
+tatuylonen__wiktextract__ccec6f1	python	claude-opus-5-5	Claude Code 2.1.311	0.1429	4	28	0.8115
+tatuylonen__wiktextract__ccec6f1	python	gpt-6.1-sol	Codex 0.164.0	0.1071	3	28	0.6087
+tatuylonen__wiktextract__ccec6f1	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1071	3	28	0.4278
+tatuylonen__wiktextract__ccec6f1	python	grok-4.7	Claude Code 2.1.311	0.0714	2	28	0.2997
+tinygrad__tinygrad__9478825	python	claude-opus-5-5	Claude Code 2.1.311	0.5690	33	58	0.9384
+tinygrad__tinygrad__9478825	python	gpt-6.1-sol	Codex 0.164.0	0.3793	22	58	0.8251
+tinygrad__tinygrad__9478825	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.2414	14	58	0.4975
+tinygrad__tinygrad__9478825	python	grok-4.7	Claude Code 2.1.311	0.1379	8	58	0.3966
+tobymao__sqlglot__5cfb599	python	claude-opus-5-5	Claude Code 2.1.311	0.5946	22	37	0.9535
+tobymao__sqlglot__5cfb599	python	gpt-6.1-sol	Codex 0.164.0	0.2973	11	37	0.6744
+tobymao__sqlglot__5cfb599	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.0811	3	37	0.4535
+tobymao__sqlglot__5cfb599	python	grok-4.7	Claude Code 2.1.311	0.0270	1	37	0.3605
+translate__translate__ac1f2d7	python	claude-opus-5-5	Claude Code 2.1.311	0.7697	127	165	0.9803
+translate__translate__ac1f2d7	python	gpt-6.1-sol	Codex 0.164.0	0.4848	80	165	0.8736
+translate__translate__ac1f2d7	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.5273	87	165	0.8814
+translate__translate__ac1f2d7	python	grok-4.7	Claude Code 2.1.311	0.3091	51	165	0.6951
+TSchonleber__brainctl__c634808	python	claude-opus-5-5	Claude Code 2.1.311	0.8352	76	91	0.9371
+TSchonleber__brainctl__c634808	python	gpt-6.1-sol	Codex 0.164.0	0.8242	75	91	0.9184
+TSchonleber__brainctl__c634808	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.7033	64	91	0.8648
+TSchonleber__brainctl__c634808	python	grok-4.7	Claude Code 2.1.311	0.2857	26	91	0.3811
+twisted__pydoctor__e945a1f	python	claude-opus-5-5	Claude Code 2.1.311	0.8636	38	44	0.9960
+twisted__pydoctor__e945a1f	python	gpt-6.1-sol	Codex 0.164.0	0.6591	29	44	0.9573
+twisted__pydoctor__e945a1f	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1136	5	44	0.1004
+twisted__pydoctor__e945a1f	python	grok-4.7	Claude Code 2.1.311	0.0000	0	44	0.0000
+tyhts0829__grafix__0bfcf4d	python	claude-opus-5-5	Claude Code 2.1.311	0.6850	87	127	0.9394
+tyhts0829__grafix__0bfcf4d	python	gpt-6.1-sol	Codex 0.164.0	0.5354	68	127	0.8860
+tyhts0829__grafix__0bfcf4d	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4016	51	127	0.7739
+tyhts0829__grafix__0bfcf4d	python	grok-4.7	Claude Code 2.1.311	0.1102	14	127	0.2512
+whad-team__whad-client__57f7370	python	claude-opus-5-5	Claude Code 2.1.311	0.7667	23	30	0.9863
+whad-team__whad-client__57f7370	python	gpt-6.1-sol	Codex 0.164.0	0.6667	20	30	0.9825
+whad-team__whad-client__57f7370	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.5000	15	30	0.8764
+whad-team__whad-client__57f7370	python	grok-4.7	Claude Code 2.1.311	0.3667	11	30	0.7615
+xhluca__session-migrate__c23b1db	python	claude-opus-5-5	Claude Code 2.1.311	0.2414	7	29	0.4000
+xhluca__session-migrate__c23b1db	python	gpt-6.1-sol	Codex 0.164.0	0.2414	7	29	0.3981
+xhluca__session-migrate__c23b1db	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1379	4	29	0.3371
+xhluca__session-migrate__c23b1db	python	grok-4.7	Claude Code 2.1.311	0.0345	1	29	0.2171
+xiejhhhhhh__Draftpaper_loop__11c3ac5	python	claude-opus-5-5	Claude Code 2.1.311	0.0833	1	12	0.7196
+xiejhhhhhh__Draftpaper_loop__11c3ac5	python	gpt-6.1-sol	Codex 0.164.0	0.0833	1	12	0.6526
+xiejhhhhhh__Draftpaper_loop__11c3ac5	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.0833	1	12	0.5509
+xiejhhhhhh__Draftpaper_loop__11c3ac5	python	grok-4.7	Claude Code 2.1.311	0.0833	1	12	0.3002
+Yelp__paasta__41d785d	python	claude-opus-5-5	Claude Code 2.1.311	0.8909	147	165	0.9789
+Yelp__paasta__41d785d	python	gpt-6.1-sol	Codex 0.164.0	0.5939	98	165	0.8606
+Yelp__paasta__41d785d	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4182	69	165	0.7658
+Yelp__paasta__41d785d	python	grok-4.7	Claude Code 2.1.311	0.2364	39	165	0.4660
+zenx0x__allinluna__b471713	python	claude-opus-5-5	Claude Code 2.1.311	0.3818	21	55	0.7764
+zenx0x__allinluna__b471713	python	gpt-6.1-sol	Codex 0.164.0	0.3636	20	55	0.8012
+zenx0x__allinluna__b471713	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.1818	10	55	0.5901
+zenx0x__allinluna__b471713	python	grok-4.7	Claude Code 2.1.311	0.0364	2	55	0.1801
+ZJU-PL__pyflow__c2da0ed	python	claude-opus-5-5	Claude Code 2.1.311	0.3913	9	23	0.8681
+ZJU-PL__pyflow__c2da0ed	python	gpt-6.1-sol	Codex 0.164.0	0.2609	6	23	0.8993
+ZJU-PL__pyflow__c2da0ed	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.3043	7	23	0.8152
+ZJU-PL__pyflow__c2da0ed	python	grok-4.7	Claude Code 2.1.311	0.1304	3	23	0.6232
+ZJunCher__mr-agent__06f2331	python	claude-opus-5-5	Claude Code 2.1.311	0.7249	137	189	0.9315
+ZJunCher__mr-agent__06f2331	python	gpt-6.1-sol	Codex 0.164.0	0.5397	102	189	0.8731
+ZJunCher__mr-agent__06f2331	python	deepseek-v4.1-flash	Claude Code 2.1.311	0.4868	92	189	0.8298
+ZJunCher__mr-agent__06f2331	python	grok-4.7	Claude Code 2.1.311	0.2804	53	189	0.6193
+AccumulateNetwork__accumulate__e1d1db9	go	claude-opus-5-5	Claude Code 2.1.311	0.1351	5	37	0.8447
+AccumulateNetwork__accumulate__e1d1db9	go	gpt-6.1-sol	Codex 0.164.0	0.1622	6	37	0.9129
+AccumulateNetwork__accumulate__e1d1db9	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.0811	3	37	0.3144
+AccumulateNetwork__accumulate__e1d1db9	go	grok-4.7	Claude Code 2.1.311	0.0811	3	37	0.3712
+authzed__spicedb__81fbf15	go	claude-opus-5-5	Claude Code 2.1.311	0.7550	151	200	0.9895
+authzed__spicedb__81fbf15	go	gpt-6.1-sol	Codex 0.164.0	0.6750	135	200	0.9183
+authzed__spicedb__81fbf15	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.6100	122	200	0.9041
+authzed__spicedb__81fbf15	go	grok-4.7	Claude Code 2.1.311	0.4900	98	200	0.7809
+blinklabs-io__gouroboros__bb4f291	go	claude-opus-5-5	Claude Code 2.1.311	0.6952	146	210	0.9368
+blinklabs-io__gouroboros__bb4f291	go	gpt-6.1-sol	Codex 0.164.0	0.6381	134	210	0.9526
+blinklabs-io__gouroboros__bb4f291	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.5000	105	210	0.9012
+blinklabs-io__gouroboros__bb4f291	go	grok-4.7	Claude Code 2.1.311	0.0952	20	210	0.1888
+caidaoli__ccLoad__4c9bc04	go	claude-opus-5-5	Claude Code 2.1.311	0.3165	50	158	0.7047
+caidaoli__ccLoad__4c9bc04	go	gpt-6.1-sol	Codex 0.164.0	0.6139	97	158	0.8882
+caidaoli__ccLoad__4c9bc04	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.4620	73	158	0.8051
+caidaoli__ccLoad__4c9bc04	go	grok-4.7	Claude Code 2.1.311	0.0949	15	158	0.1825
+Goldziher__ai-rulez__2dbd6a4	go	claude-opus-5-5	Claude Code 2.1.311	0.1031	20	194	0.1859
+Goldziher__ai-rulez__2dbd6a4	go	gpt-6.1-sol	Codex 0.164.0	0.4485	87	194	0.8511
+Goldziher__ai-rulez__2dbd6a4	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.3866	75	194	0.7409
+Goldziher__ai-rulez__2dbd6a4	go	grok-4.7	Claude Code 2.1.311	0.0722	14	194	0.1677
+grafana__gcx__f0a657b	go	claude-opus-5-5	Claude Code 2.1.311	0.8186	176	215	0.9734
+grafana__gcx__f0a657b	go	gpt-6.1-sol	Codex 0.164.0	0.6047	130	215	0.9258
+grafana__gcx__f0a657b	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.5860	126	215	0.9031
+grafana__gcx__f0a657b	go	grok-4.7	Claude Code 2.1.311	0.3395	73	215	0.7270
+gruntwork-io__terragrunt__8647f70	go	claude-opus-5-5	Claude Code 2.1.311	0.5588	114	204	0.9676
+gruntwork-io__terragrunt__8647f70	go	gpt-6.1-sol	Codex 0.164.0	0.4657	95	204	0.9211
+gruntwork-io__terragrunt__8647f70	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.4559	93	204	0.8825
+gruntwork-io__terragrunt__8647f70	go	grok-4.7	Claude Code 2.1.311	0.1176	24	204	0.2922
+kubernetes__apimachinery__bb18965	go	claude-opus-5-5	Claude Code 2.1.311	0.8269	43	52	0.9831
+kubernetes__apimachinery__bb18965	go	gpt-6.1-sol	Codex 0.164.0	0.2115	11	52	0.3863
+kubernetes__apimachinery__bb18965	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.5769	30	52	0.9524
+kubernetes__apimachinery__bb18965	go	grok-4.7	Claude Code 2.1.311	0.5385	28	52	0.8647
+NothingDNS__NothingDNS__7635503	go	claude-opus-5-5	Claude Code 2.1.311	0.8901	170	191	0.9977
+NothingDNS__NothingDNS__7635503	go	gpt-6.1-sol	Codex 0.164.0	0.8010	153	191	0.9925
+NothingDNS__NothingDNS__7635503	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.7487	143	191	0.9904
+NothingDNS__NothingDNS__7635503	go	grok-4.7	Claude Code 2.1.311	0.3717	71	191	0.8369
+open-policy-agent__opa__2dcd8ab	go	claude-opus-5-5	Claude Code 2.1.311	0.5373	72	134	0.8602
+open-policy-agent__opa__2dcd8ab	go	gpt-6.1-sol	Codex 0.164.0	0.4701	63	134	0.7479
+open-policy-agent__opa__2dcd8ab	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.3955	53	134	0.6818
+open-policy-agent__opa__2dcd8ab	go	grok-4.7	Claude Code 2.1.311	0.2985	40	134	0.3916
+pb33f__libopenapi__c4c4be7	go	claude-opus-5-5	Claude Code 2.1.311	0.2857	4	14	0.9729
+pb33f__libopenapi__c4c4be7	go	gpt-6.1-sol	Codex 0.164.0	0.4286	6	14	0.9507
+pb33f__libopenapi__c4c4be7	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.1429	2	14	0.8974
+pb33f__libopenapi__c4c4be7	go	grok-4.7	Claude Code 2.1.311	0.0000	0	14	0.7852
+pocketbase__pocketbase__6f370ea	go	claude-opus-5-5	Claude Code 2.1.311	0.6667	28	42	0.9898
+pocketbase__pocketbase__6f370ea	go	gpt-6.1-sol	Codex 0.164.0	0.6429	27	42	0.9781
+pocketbase__pocketbase__6f370ea	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.4048	17	42	0.7527
+pocketbase__pocketbase__6f370ea	go	grok-4.7	Claude Code 2.1.311	0.3810	16	42	0.6202
+seehuhn__go-pdf__313449d	go	claude-opus-5-5	Claude Code 2.1.311	0.7864	81	103	0.9845
+seehuhn__go-pdf__313449d	go	gpt-6.1-sol	Codex 0.164.0	0.6311	65	103	0.9563
+seehuhn__go-pdf__313449d	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.4951	51	103	0.8813
+seehuhn__go-pdf__313449d	go	grok-4.7	Claude Code 2.1.311	0.1262	13	103	0.4317
+shopware__shopware-cli__1a646db	go	claude-opus-5-5	Claude Code 2.1.311	0.7317	30	41	0.9778
+shopware__shopware-cli__1a646db	go	gpt-6.1-sol	Codex 0.164.0	0.3415	14	41	0.6934
+shopware__shopware-cli__1a646db	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.5854	24	41	0.9488
+shopware__shopware-cli__1a646db	go	grok-4.7	Claude Code 2.1.311	0.4878	20	41	0.9121
+Starainrt__astro__86e283b	go	claude-opus-5-5	Claude Code 2.1.311	0.5839	80	137	0.9362
+Starainrt__astro__86e283b	go	gpt-6.1-sol	Codex 0.164.0	0.2847	39	137	0.7165
+Starainrt__astro__86e283b	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.2482	34	137	0.5795
+Starainrt__astro__86e283b	go	grok-4.7	Claude Code 2.1.311	0.1168	16	137	0.2118
+topcheer__ggcode__12082d2	go	claude-opus-5-5	Claude Code 2.1.311	0.4898	48	98	0.6895
+topcheer__ggcode__12082d2	go	gpt-6.1-sol	Codex 0.164.0	0.4184	41	98	0.6714
+topcheer__ggcode__12082d2	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.4184	41	98	0.8803
+topcheer__ggcode__12082d2	go	grok-4.7	Claude Code 2.1.311	0.2857	28	98	0.6176
+trpc-group__trpc-agent-go__7d53a6c	go	claude-opus-5-5	Claude Code 2.1.311	0.6529	190	291	0.9539
+trpc-group__trpc-agent-go__7d53a6c	go	gpt-6.1-sol	Codex 0.164.0	0.5876	171	291	0.9238
+trpc-group__trpc-agent-go__7d53a6c	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.5395	157	291	0.9166
+trpc-group__trpc-agent-go__7d53a6c	go	grok-4.7	Claude Code 2.1.311	0.3333	97	291	0.7599
+velocitykode__velocity__994387b	go	claude-opus-5-5	Claude Code 2.1.311	0.7197	172	239	0.9855
+velocitykode__velocity__994387b	go	gpt-6.1-sol	Codex 0.164.0	0.6192	148	239	0.9366
+velocitykode__velocity__994387b	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.5607	134	239	0.9174
+velocitykode__velocity__994387b	go	grok-4.7	Claude Code 2.1.311	0.3933	94	239	0.7728
+viant__datly__69de013	go	claude-opus-5-5	Claude Code 2.1.311	0.5106	24	47	0.9438
+viant__datly__69de013	go	gpt-6.1-sol	Codex 0.164.0	0.4468	21	47	0.8501
+viant__datly__69de013	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.3404	16	47	0.8208
+viant__datly__69de013	go	grok-4.7	Claude Code 2.1.311	0.2128	10	47	0.4637
+wakatime__wakatime-cli__7c8ebc8	go	claude-opus-5-5	Claude Code 2.1.311	0.4545	10	22	0.9587
+wakatime__wakatime-cli__7c8ebc8	go	gpt-6.1-sol	Codex 0.164.0	0.4545	10	22	0.9268
+wakatime__wakatime-cli__7c8ebc8	go	deepseek-v4.1-flash	Claude Code 2.1.311	0.1364	3	22	0.8524
+wakatime__wakatime-cli__7c8ebc8	go	grok-4.7	Claude Code 2.1.311	0.1818	4	22	0.5643
+afonso360__ccc__e084e8e	rust	claude-opus-5-5	Claude Code 2.1.311	0.2963	8	27	0.8226
+afonso360__ccc__e084e8e	rust	gpt-6.1-sol	Codex 0.164.0	0.3704	10	27	0.7484
+afonso360__ccc__e084e8e	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.2222	6	27	0.6161
+afonso360__ccc__e084e8e	rust	grok-4.7	Claude Code 2.1.311	0.2593	7	27	0.4645
+beefsack__OmniTiler__e506350	rust	claude-opus-5-5	Claude Code 2.1.311	0.5517	16	29	0.9275
+beefsack__OmniTiler__e506350	rust	gpt-6.1-sol	Codex 0.164.0	0.5862	17	29	0.9294
+beefsack__OmniTiler__e506350	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.5517	16	29	0.7993
+beefsack__OmniTiler__e506350	rust	grok-4.7	Claude Code 2.1.311	0.2414	7	29	0.3532
+chakra-ui__panda__0a95d5d	rust	claude-opus-5-5	Claude Code 2.1.311	0.7037	19	27	0.9544
+chakra-ui__panda__0a95d5d	rust	gpt-6.1-sol	Codex 0.164.0	0.5556	15	27	0.9088
+chakra-ui__panda__0a95d5d	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.4444	12	27	0.6307
+chakra-ui__panda__0a95d5d	rust	grok-4.7	Claude Code 2.1.311	0.2963	8	27	0.3098
+cipherstash__sqltk__7a1bb8d	rust	claude-opus-5-5	Claude Code 2.1.311	1.0000	12	12	1.0000
+cipherstash__sqltk__7a1bb8d	rust	gpt-6.1-sol	Codex 0.164.0	0.5000	6	12	0.8502
+cipherstash__sqltk__7a1bb8d	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.4167	5	12	0.7423
+cipherstash__sqltk__7a1bb8d	rust	grok-4.7	Claude Code 2.1.311	0.0833	1	12	0.3436
+cmpute__dashu__aadb058	rust	claude-opus-5-5	Claude Code 2.1.311	0.8235	56	68	0.9930
+cmpute__dashu__aadb058	rust	gpt-6.1-sol	Codex 0.164.0	0.7353	50	68	0.9899
+cmpute__dashu__aadb058	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.2500	17	68	0.8673
+cmpute__dashu__aadb058	rust	grok-4.7	Claude Code 2.1.311	0.0882	6	68	0.4141
+fenecdb__fenec__1b95c82	rust	claude-opus-5-5	Claude Code 2.1.311	0.4717	25	53	0.9416
+fenecdb__fenec__1b95c82	rust	gpt-6.1-sol	Codex 0.164.0	0.3962	21	53	0.7987
+fenecdb__fenec__1b95c82	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.1509	8	53	0.5617
+fenecdb__fenec__1b95c82	rust	grok-4.7	Claude Code 2.1.311	0.0943	5	53	0.0747
+flatppl__flatppl-rust__5add6b4	rust	claude-opus-5-5	Claude Code 2.1.311	0.4533	34	75	0.8521
+flatppl__flatppl-rust__5add6b4	rust	gpt-6.1-sol	Codex 0.164.0	0.4000	30	75	0.8648
+flatppl__flatppl-rust__5add6b4	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.3867	29	75	0.6576
+flatppl__flatppl-rust__5add6b4	rust	grok-4.7	Claude Code 2.1.311	0.2000	15	75	0.4339
+globalpocket__brownie__5c533ee	rust	claude-opus-5-5	Claude Code 2.1.311	0.2727	3	11	0.8402
+globalpocket__brownie__5c533ee	rust	gpt-6.1-sol	Codex 0.164.0	0.4545	5	11	0.7811
+globalpocket__brownie__5c533ee	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.2727	3	11	0.6036
+globalpocket__brownie__5c533ee	rust	grok-4.7	Claude Code 2.1.311	0.2727	3	11	0.5444
+guaracloud__e-navigator__f8c8103	rust	claude-opus-5-5	Claude Code 2.1.311	0.9384	137	146	0.9908
+guaracloud__e-navigator__f8c8103	rust	gpt-6.1-sol	Codex 0.164.0	0.4178	61	146	0.9508
+guaracloud__e-navigator__f8c8103	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.4041	59	146	0.9426
+guaracloud__e-navigator__f8c8103	rust	grok-4.7	Claude Code 2.1.311	0.2877	42	146	0.7836
+iriumlabs__irium__513a086	rust	claude-opus-5-5	Claude Code 2.1.311	0.8108	30	37	0.9970
+iriumlabs__irium__513a086	rust	gpt-6.1-sol	Codex 0.164.0	0.5405	20	37	0.9670
+iriumlabs__irium__513a086	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.7027	26	37	0.9655
+iriumlabs__irium__513a086	rust	grok-4.7	Claude Code 2.1.311	0.3514	13	37	0.5322
+KashyapTan__Multplx__6ce26a0	rust	claude-opus-5-5	Claude Code 2.1.311	0.6400	16	25	0.9239
+KashyapTan__Multplx__6ce26a0	rust	gpt-6.1-sol	Codex 0.164.0	0.4800	12	25	0.8696
+KashyapTan__Multplx__6ce26a0	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.4800	12	25	0.8641
+KashyapTan__Multplx__6ce26a0	rust	grok-4.7	Claude Code 2.1.311	0.4400	11	25	0.7011
+KumoCorp__shingetsu__b92d8d1	rust	claude-opus-5-5	Claude Code 2.1.311	0.4783	33	69	0.7487
+KumoCorp__shingetsu__b92d8d1	rust	gpt-6.1-sol	Codex 0.164.0	0.4348	30	69	0.7386
+KumoCorp__shingetsu__b92d8d1	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.2899	20	69	0.2768
+KumoCorp__shingetsu__b92d8d1	rust	grok-4.7	Claude Code 2.1.311	0.1739	12	69	0.2113
+lightningdevkit__rust-lightning__15c5d9b	rust	claude-opus-5-5	Claude Code 2.1.311	1.0000	33	33	1.0000
+lightningdevkit__rust-lightning__15c5d9b	rust	gpt-6.1-sol	Codex 0.164.0	0.7879	26	33	0.9684
+lightningdevkit__rust-lightning__15c5d9b	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.1818	6	33	0.3895
+lightningdevkit__rust-lightning__15c5d9b	rust	grok-4.7	Claude Code 2.1.311	0.1515	5	33	0.4211
+luceat-lux-vestra__arkst__ac3d416	rust	claude-opus-5-5	Claude Code 2.1.311	0.5833	21	36	0.9377
+luceat-lux-vestra__arkst__ac3d416	rust	gpt-6.1-sol	Codex 0.164.0	0.6111	22	36	0.9501
+luceat-lux-vestra__arkst__ac3d416	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.4444	16	36	0.8728
+luceat-lux-vestra__arkst__ac3d416	rust	grok-4.7	Claude Code 2.1.311	0.1667	6	36	0.5536
+MoSunDay__rdb__d9659b3	rust	claude-opus-5-5	Claude Code 2.1.311	0.2308	6	26	0.0714
+MoSunDay__rdb__d9659b3	rust	gpt-6.1-sol	Codex 0.164.0	0.2308	6	26	0.0714
+MoSunDay__rdb__d9659b3	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.2308	6	26	0.0714
+MoSunDay__rdb__d9659b3	rust	grok-4.7	Claude Code 2.1.311	0.1538	4	26	0.0476
+physwkim__rust-hdf5__18e5dcf	rust	claude-opus-5-5	Claude Code 2.1.311	0.0213	1	47	0.0505
+physwkim__rust-hdf5__18e5dcf	rust	gpt-6.1-sol	Codex 0.164.0	0.3191	15	47	0.9024
+physwkim__rust-hdf5__18e5dcf	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.0851	4	47	0.4815
+physwkim__rust-hdf5__18e5dcf	rust	grok-4.7	Claude Code 2.1.311	0.0213	1	47	0.3064
+PoHsuanLai__porter__e477888	rust	claude-opus-5-5	Claude Code 2.1.311	0.4091	9	22	0.9713
+PoHsuanLai__porter__e477888	rust	gpt-6.1-sol	Codex 0.164.0	0.4091	9	22	0.9713
+PoHsuanLai__porter__e477888	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.1818	4	22	0.9613
+PoHsuanLai__porter__e477888	rust	grok-4.7	Claude Code 2.1.311	0.0909	2	22	0.7278
+sticktrk__rhythm-os__23480f9	rust	claude-opus-5-5	Claude Code 2.1.311	0.6385	83	130	0.8805
+sticktrk__rhythm-os__23480f9	rust	gpt-6.1-sol	Codex 0.164.0	0.6385	83	130	0.9248
+sticktrk__rhythm-os__23480f9	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.4231	55	130	0.7512
+sticktrk__rhythm-os__23480f9	rust	grok-4.7	Claude Code 2.1.311	0.1308	17	130	0.2759
+swaymun__wonder__8079ccb	rust	claude-opus-5-5	Claude Code 2.1.311	0.7800	39	50	0.9680
+swaymun__wonder__8079ccb	rust	gpt-6.1-sol	Codex 0.164.0	0.5600	28	50	0.9440
+swaymun__wonder__8079ccb	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.7000	35	50	0.9360
+swaymun__wonder__8079ccb	rust	grok-4.7	Claude Code 2.1.311	0.2000	10	50	0.1680
+tafia__quick-xml__2eaa844	rust	claude-opus-5-5	Claude Code 2.1.311	0.7273	8	11	0.9946
+tafia__quick-xml__2eaa844	rust	gpt-6.1-sol	Codex 0.164.0	0.5455	6	11	0.9677
+tafia__quick-xml__2eaa844	rust	deepseek-v4.1-flash	Claude Code 2.1.311	0.1818	2	11	0.9021
+tafia__quick-xml__2eaa844	rust	grok-4.7	Claude Code 2.1.311	0.0000	0	11	0.5094
+apache__commons-jxpath__ad4d8d2	java	claude-opus-5-5	Claude Code 2.1.311	0.8182	27	33	0.9935
+apache__commons-jxpath__ad4d8d2	java	gpt-6.1-sol	Codex 0.164.0	0.4545	15	33	0.8806
+apache__commons-jxpath__ad4d8d2	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.2727	9	33	0.8194
+apache__commons-jxpath__ad4d8d2	java	grok-4.7	Claude Code 2.1.311	0.1515	5	33	0.3710
+BeamFour__Beam42__92901ca	java	claude-opus-5-5	Claude Code 2.1.311	0.5070	36	71	0.8438
+BeamFour__Beam42__92901ca	java	gpt-6.1-sol	Codex 0.164.0	0.5070	36	71	0.9018
+BeamFour__Beam42__92901ca	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.3099	22	71	0.5446
+BeamFour__Beam42__92901ca	java	grok-4.7	Claude Code 2.1.311	0.1549	11	71	0.1920
+CycloneDX__cyclonedx-core-java__2c410e3	java	claude-opus-5-5	Claude Code 2.1.311	0.8302	44	53	0.9885
+CycloneDX__cyclonedx-core-java__2c410e3	java	gpt-6.1-sol	Codex 0.164.0	0.1509	8	53	0.5789
+CycloneDX__cyclonedx-core-java__2c410e3	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.4906	26	53	0.7465
+CycloneDX__cyclonedx-core-java__2c410e3	java	grok-4.7	Claude Code 2.1.311	0.2075	11	53	0.5765
+dan2097__opsin__73edac3	java	claude-opus-5-5	Claude Code 2.1.311	0.3846	5	13	0.7918
+dan2097__opsin__73edac3	java	gpt-6.1-sol	Codex 0.164.0	0.2308	3	13	0.8408
+dan2097__opsin__73edac3	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.2308	3	13	0.4980
+dan2097__opsin__73edac3	java	grok-4.7	Claude Code 2.1.311	0.1538	2	13	0.6694
+denoptim-project__DENOPTIM__04da57b	java	claude-opus-5-5	Claude Code 2.1.311	0.4231	11	26	0.9700
+denoptim-project__DENOPTIM__04da57b	java	gpt-6.1-sol	Codex 0.164.0	0.1923	5	26	0.8841
+denoptim-project__DENOPTIM__04da57b	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.1538	4	26	0.6652
+denoptim-project__DENOPTIM__04da57b	java	grok-4.7	Claude Code 2.1.311	0.1154	3	26	0.7082
+devnied__EMV-NFC-Paycard-Enrollment__a59820d	java	claude-opus-5-5	Claude Code 2.1.311	0.9070	39	43	0.9898
+devnied__EMV-NFC-Paycard-Enrollment__a59820d	java	gpt-6.1-sol	Codex 0.164.0	0.5349	23	43	0.9728
+devnied__EMV-NFC-Paycard-Enrollment__a59820d	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.3721	16	43	0.9082
+devnied__EMV-NFC-Paycard-Enrollment__a59820d	java	grok-4.7	Claude Code 2.1.311	0.3023	13	43	0.8095
+FasterXML__woodstox__ebe8a72	java	claude-opus-5-5	Claude Code 2.1.311	0.9474	72	76	0.9976
+FasterXML__woodstox__ebe8a72	java	gpt-6.1-sol	Codex 0.164.0	0.6974	53	76	0.9703
+FasterXML__woodstox__ebe8a72	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.5000	38	76	0.8754
+FasterXML__woodstox__ebe8a72	java	grok-4.7	Claude Code 2.1.311	0.3289	25	76	0.6904
+italia__spid-cie-oidc-java__937bb0a	java	claude-opus-5-5	Claude Code 2.1.311	1.0000	25	25	1.0000
+italia__spid-cie-oidc-java__937bb0a	java	gpt-6.1-sol	Codex 0.164.0	0.6400	16	25	0.9573
+italia__spid-cie-oidc-java__937bb0a	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.8400	21	25	0.9878
+italia__spid-cie-oidc-java__937bb0a	java	grok-4.7	Claude Code 2.1.311	0.5600	14	25	0.9390
+jhy__jsoup__37aea49	java	claude-opus-5-5	Claude Code 2.1.311	0.4386	25	57	0.9715
+jhy__jsoup__37aea49	java	gpt-6.1-sol	Codex 0.164.0	0.4561	26	57	0.9654
+jhy__jsoup__37aea49	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.2456	14	57	0.8949
+jhy__jsoup__37aea49	java	grok-4.7	Claude Code 2.1.311	0.1053	6	57	0.6210
+KittehOrg__KittehIRCClientLib__b482e56	java	claude-opus-5-5	Claude Code 2.1.311	1.0000	55	55	1.0000
+KittehOrg__KittehIRCClientLib__b482e56	java	gpt-6.1-sol	Codex 0.164.0	0.7273	40	55	0.9957
+KittehOrg__KittehIRCClientLib__b482e56	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.5455	30	55	0.9609
+KittehOrg__KittehIRCClientLib__b482e56	java	grok-4.7	Claude Code 2.1.311	0.6000	33	55	0.9696
+menodata__time4j__35120a1	java	claude-opus-5-5	Claude Code 2.1.311	0.7500	123	164	0.9971
+menodata__time4j__35120a1	java	gpt-6.1-sol	Codex 0.164.0	0.4573	75	164	0.9857
+menodata__time4j__35120a1	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.2378	39	164	0.7682
+menodata__time4j__35120a1	java	grok-4.7	Claude Code 2.1.311	0.0610	10	164	0.2083
+mikera__vectorz__2ec816d	java	claude-opus-5-5	Claude Code 2.1.311	0.1316	5	38	0.8246
+mikera__vectorz__2ec816d	java	gpt-6.1-sol	Codex 0.164.0	0.1842	7	38	0.9474
+mikera__vectorz__2ec816d	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.1316	5	38	0.8041
+mikera__vectorz__2ec816d	java	grok-4.7	Claude Code 2.1.311	0.0526	2	38	0.5994
+mimno__Mallet__2de54cb	java	claude-opus-5-5	Claude Code 2.1.311	0.4815	13	27	0.9172
+mimno__Mallet__2de54cb	java	gpt-6.1-sol	Codex 0.164.0	0.5556	15	27	0.9809
+mimno__Mallet__2de54cb	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.1481	4	27	0.8726
+mimno__Mallet__2de54cb	java	grok-4.7	Claude Code 2.1.311	0.3704	10	27	0.9363
+moleculer-java__moleculer-java__dddb4bb	java	claude-opus-5-5	Claude Code 2.1.311	0.7143	20	28	0.9703
+moleculer-java__moleculer-java__dddb4bb	java	gpt-6.1-sol	Codex 0.164.0	0.3571	10	28	0.8812
+moleculer-java__moleculer-java__dddb4bb	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.4643	13	28	0.9109
+moleculer-java__moleculer-java__dddb4bb	java	grok-4.7	Claude Code 2.1.311	0.2500	7	28	0.8317
+networknt__json-schema-validator__47d2fe6	java	claude-opus-5-5	Claude Code 2.1.311	0.5000	11	22	0.9674
+networknt__json-schema-validator__47d2fe6	java	gpt-6.1-sol	Codex 0.164.0	0.5455	12	22	0.9709
+networknt__json-schema-validator__47d2fe6	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.3636	8	22	0.9242
+networknt__json-schema-validator__47d2fe6	java	grok-4.7	Claude Code 2.1.311	0.1818	4	22	0.7646
+openpnp__openpnp__5bd404c	java	claude-opus-5-5	Claude Code 2.1.311	0.1875	12	64	0.5306
+openpnp__openpnp__5bd404c	java	gpt-6.1-sol	Codex 0.164.0	0.2656	17	64	0.5459
+openpnp__openpnp__5bd404c	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.3281	21	64	0.8673
+openpnp__openpnp__5bd404c	java	grok-4.7	Claude Code 2.1.311	0.1875	12	64	0.4796
+r2dbc__r2dbc-mssql__9979349	java	claude-opus-5-5	Claude Code 2.1.311	0.8077	21	26	0.9888
+r2dbc__r2dbc-mssql__9979349	java	gpt-6.1-sol	Codex 0.164.0	0.6154	16	26	0.9775
+r2dbc__r2dbc-mssql__9979349	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.2308	6	26	0.7753
+r2dbc__r2dbc-mssql__9979349	java	grok-4.7	Claude Code 2.1.311	0.3077	8	26	0.8202
+SafeExamBrowser__seb-server__7f45689	java	claude-opus-5-5	Claude Code 2.1.311	0.7424	49	66	0.9401
+SafeExamBrowser__seb-server__7f45689	java	gpt-6.1-sol	Codex 0.164.0	0.5455	36	66	0.8204
+SafeExamBrowser__seb-server__7f45689	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.2727	18	66	0.6407
+SafeExamBrowser__seb-server__7f45689	java	grok-4.7	Claude Code 2.1.311	0.2424	16	66	0.5988
+santiontanon__mdlz80optimizer__3004430	java	claude-opus-5-5	Claude Code 2.1.311	0.0952	2	21	0.4747
+santiontanon__mdlz80optimizer__3004430	java	gpt-6.1-sol	Codex 0.164.0	0.1429	3	21	0.6646
+santiontanon__mdlz80optimizer__3004430	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.1429	3	21	0.5190
+santiontanon__mdlz80optimizer__3004430	java	grok-4.7	Claude Code 2.1.311	0.1429	3	21	0.4430
+soklet__soklet__ac475cd	java	claude-opus-5-5	Claude Code 2.1.311	0.5417	26	48	0.9764
+soklet__soklet__ac475cd	java	gpt-6.1-sol	Codex 0.164.0	0.3750	18	48	0.9696
+soklet__soklet__ac475cd	java	deepseek-v4.1-flash	Claude Code 2.1.311	0.2917	14	48	0.9022
+soklet__soklet__ac475cd	java	grok-4.7	Claude Code 2.1.311	0.1875	9	48	0.7723
+abundantbeing__hermes-browser-extension__52fb8a6	javascript	claude-opus-5-5	Claude Code 2.1.311	0.8226	102	124	0.9419
+abundantbeing__hermes-browser-extension__52fb8a6	javascript	gpt-6.1-sol	Codex 0.164.0	0.5806	72	124	0.8125
+abundantbeing__hermes-browser-extension__52fb8a6	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.5565	69	124	0.8070
+abundantbeing__hermes-browser-extension__52fb8a6	javascript	grok-4.7	Claude Code 2.1.311	0.5726	71	124	0.8180
+ariekogan__ateam-mcp__03c419d	javascript	claude-opus-5-5	Claude Code 2.1.311	0.7333	11	15	0.9333
+ariekogan__ateam-mcp__03c419d	javascript	gpt-6.1-sol	Codex 0.164.0	0.7333	11	15	0.9444
+ariekogan__ateam-mcp__03c419d	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.2667	4	15	0.6556
+ariekogan__ateam-mcp__03c419d	javascript	grok-4.7	Claude Code 2.1.311	0.5333	8	15	0.8556
+ASomerN__node-red-contrib-octopus-intelligent__2ffb64a	javascript	claude-opus-5-5	Claude Code 2.1.311	0.9200	23	25	0.9880
+ASomerN__node-red-contrib-octopus-intelligent__2ffb64a	javascript	gpt-6.1-sol	Codex 0.164.0	0.9200	23	25	0.9920
+ASomerN__node-red-contrib-octopus-intelligent__2ffb64a	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.8000	20	25	0.9598
+ASomerN__node-red-contrib-octopus-intelligent__2ffb64a	javascript	grok-4.7	Claude Code 2.1.311	0.8400	21	25	0.8715
+benson__benson.github.io__365159a	javascript	claude-opus-5-5	Claude Code 2.1.311	0.9216	47	51	0.9869
+benson__benson.github.io__365159a	javascript	gpt-6.1-sol	Codex 0.164.0	0.9412	48	51	0.9902
+benson__benson.github.io__365159a	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.6667	34	51	0.9281
+benson__benson.github.io__365159a	javascript	grok-4.7	Claude Code 2.1.311	0.0392	2	51	0.0392
+chemplexity__molecules__552f1af	javascript	claude-opus-5-5	Claude Code 2.1.311	0.5304	61	115	0.8675
+chemplexity__molecules__552f1af	javascript	gpt-6.1-sol	Codex 0.164.0	0.4783	55	115	0.8256
+chemplexity__molecules__552f1af	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.3913	45	115	0.7172
+chemplexity__molecules__552f1af	javascript	grok-4.7	Claude Code 2.1.311	0.1826	21	115	0.5460
+danielsobrado__drusniel-gods-end__ea5d215	javascript	claude-opus-5-5	Claude Code 2.1.311	0.9135	95	104	0.9649
+danielsobrado__drusniel-gods-end__ea5d215	javascript	gpt-6.1-sol	Codex 0.164.0	0.8077	84	104	0.9324
+danielsobrado__drusniel-gods-end__ea5d215	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.7596	79	104	0.8973
+danielsobrado__drusniel-gods-end__ea5d215	javascript	grok-4.7	Claude Code 2.1.311	0.5865	61	104	0.8027
+digitalbazaar__forge__7232404	javascript	claude-opus-5-5	Claude Code 2.1.311	0.9318	41	44	0.9979
+digitalbazaar__forge__7232404	javascript	gpt-6.1-sol	Codex 0.164.0	0.8636	38	44	0.9914
+digitalbazaar__forge__7232404	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.4773	21	44	0.8047
+digitalbazaar__forge__7232404	javascript	grok-4.7	Claude Code 2.1.311	0.3409	15	44	0.6738
+GroophyLifefor__heap-analysis__92eebf4	javascript	claude-opus-5-5	Claude Code 2.1.311	0.9333	14	15	0.9915
+GroophyLifefor__heap-analysis__92eebf4	javascript	gpt-6.1-sol	Codex 0.164.0	0.0667	1	15	0.5085
+GroophyLifefor__heap-analysis__92eebf4	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.9333	14	15	0.9915
+GroophyLifefor__heap-analysis__92eebf4	javascript	grok-4.7	Claude Code 2.1.311	0.9333	14	15	0.9915
+jaymar921__HirayaCoder__b56f6d9	javascript	claude-opus-5-5	Claude Code 2.1.311	0.7719	44	57	0.9352
+jaymar921__HirayaCoder__b56f6d9	javascript	gpt-6.1-sol	Codex 0.164.0	0.7368	42	57	0.9089
+jaymar921__HirayaCoder__b56f6d9	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.7368	42	57	0.9527
+jaymar921__HirayaCoder__b56f6d9	javascript	grok-4.7	Claude Code 2.1.311	0.5439	31	57	0.8809
+L1nze__LitBoard__4961f7b	javascript	claude-opus-5-5	Claude Code 2.1.311	0.8095	17	21	0.9291
+L1nze__LitBoard__4961f7b	javascript	gpt-6.1-sol	Codex 0.164.0	0.9048	19	21	0.9449
+L1nze__LitBoard__4961f7b	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.8095	17	21	0.8898
+L1nze__LitBoard__4961f7b	javascript	grok-4.7	Claude Code 2.1.311	0.6190	13	21	0.6378
+Liu-Bot24__liusheng-subtitles__e56ed2c	javascript	claude-opus-5-5	Claude Code 2.1.311	0.2500	1	4	0.5833
+Liu-Bot24__liusheng-subtitles__e56ed2c	javascript	gpt-6.1-sol	Codex 0.164.0	0.5000	2	4	0.9583
+Liu-Bot24__liusheng-subtitles__e56ed2c	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.2500	1	4	0.5625
+Liu-Bot24__liusheng-subtitles__e56ed2c	javascript	grok-4.7	Claude Code 2.1.311	0.0000	0	4	0.6250
+mattbasta__crass__59172f3	javascript	claude-opus-5-5	Claude Code 2.1.311	0.8000	4	5	0.8978
+mattbasta__crass__59172f3	javascript	gpt-6.1-sol	Codex 0.164.0	0.8000	4	5	0.8933
+mattbasta__crass__59172f3	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.8000	4	5	0.8178
+mattbasta__crass__59172f3	javascript	grok-4.7	Claude Code 2.1.311	0.8000	4	5	0.7289
+MichaelDurieuxInTenz__lire-compter-samuser__d3478e7	javascript	claude-opus-5-5	Claude Code 2.1.311	0.7288	43	59	0.8512
+MichaelDurieuxInTenz__lire-compter-samuser__d3478e7	javascript	gpt-6.1-sol	Codex 0.164.0	0.7119	42	59	0.8099
+MichaelDurieuxInTenz__lire-compter-samuser__d3478e7	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.4746	28	59	0.5372
+MichaelDurieuxInTenz__lire-compter-samuser__d3478e7	javascript	grok-4.7	Claude Code 2.1.311	0.4068	24	59	0.5372
+opentypejs__opentype.js__5d65b6d	javascript	claude-opus-5-5	Claude Code 2.1.311	1.0000	14	14	1.0000
+opentypejs__opentype.js__5d65b6d	javascript	gpt-6.1-sol	Codex 0.164.0	0.7857	11	14	0.9545
+opentypejs__opentype.js__5d65b6d	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.5714	8	14	0.6818
+opentypejs__opentype.js__5d65b6d	javascript	grok-4.7	Claude Code 2.1.311	0.5000	7	14	0.6818
+shreeshyla-hanasoge__Emberwick__bb0e013	javascript	claude-opus-5-5	Claude Code 2.1.311	0.6190	13	21	0.8529
+shreeshyla-hanasoge__Emberwick__bb0e013	javascript	gpt-6.1-sol	Codex 0.164.0	0.7619	16	21	0.8529
+shreeshyla-hanasoge__Emberwick__bb0e013	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.4762	10	21	0.9118
+shreeshyla-hanasoge__Emberwick__bb0e013	javascript	grok-4.7	Claude Code 2.1.311	0.2381	5	21	0.4559
+telus-labs__stagecraft__e7b1b44	javascript	claude-opus-5-5	Claude Code 2.1.311	0.9318	41	44	0.9957
+telus-labs__stagecraft__e7b1b44	javascript	gpt-6.1-sol	Codex 0.164.0	0.8636	38	44	0.9872
+telus-labs__stagecraft__e7b1b44	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.8409	37	44	0.9808
+telus-labs__stagecraft__e7b1b44	javascript	grok-4.7	Claude Code 2.1.311	0.6136	27	44	0.9209
+Vheissu__emerald-bayou__e87c036	javascript	claude-opus-5-5	Claude Code 2.1.311	0.8415	69	82	0.9257
+Vheissu__emerald-bayou__e87c036	javascript	gpt-6.1-sol	Codex 0.164.0	0.8780	72	82	0.9158
+Vheissu__emerald-bayou__e87c036	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.7439	61	82	0.8663
+Vheissu__emerald-bayou__e87c036	javascript	grok-4.7	Claude Code 2.1.311	0.5122	42	82	0.6683
+wingbotai__wingbot__0d5f33e	javascript	claude-opus-5-5	Claude Code 2.1.311	0.7500	21	28	0.9348
+wingbotai__wingbot__0d5f33e	javascript	gpt-6.1-sol	Codex 0.164.0	0.6786	19	28	0.9130
+wingbotai__wingbot__0d5f33e	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.5000	14	28	0.6739
+wingbotai__wingbot__0d5f33e	javascript	grok-4.7	Claude Code 2.1.311	0.4643	13	28	0.5797
+xiidoz__netnou__dfb6bc3	javascript	claude-opus-5-5	Claude Code 2.1.311	0.7045	31	44	0.9362
+xiidoz__netnou__dfb6bc3	javascript	gpt-6.1-sol	Codex 0.164.0	0.6136	27	44	0.9149
+xiidoz__netnou__dfb6bc3	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.5227	23	44	0.8440
+xiidoz__netnou__dfb6bc3	javascript	grok-4.7	Claude Code 2.1.311	0.1818	8	44	0.4965
+ymuromcev__ai-job-searcher__e9f3a1d	javascript	claude-opus-5-5	Claude Code 2.1.311	0.8065	75	93	0.9224
+ymuromcev__ai-job-searcher__e9f3a1d	javascript	gpt-6.1-sol	Codex 0.164.0	0.7097	66	93	0.9261
+ymuromcev__ai-job-searcher__e9f3a1d	javascript	deepseek-v4.1-flash	Claude Code 2.1.311	0.7204	67	93	0.9188
+ymuromcev__ai-job-searcher__e9f3a1d	javascript	grok-4.7	Claude Code 2.1.311	0.5806	54	93	0.8932

@@ -1,0 +1,27 @@
+# GPT-6.1 Sol in Codex, set up as in the settings table of the README.
+#
+#   unset CODEX_FORCE_AUTH_JSON CODEX_AUTH_JSON_PATH
+#   export OPENAI_API_KEY=...
+#   harbor run -c configs/gpt-6.1-sol.yaml -p NL2Repo-Pro/run
+#
+# The unset keeps Harbor on the key: with either variable set it uploads a local Codex login
+# instead, and a login needs auth.openai.com, which the task's network rule blocks. The config
+# cannot turn them off itself, because Harbor scrubs the value of every variable whose name holds
+# AUTH from all trial files, and "false" would then vanish from results and code.
+#
+# Another endpoint: also export OPENAI_BASE_URL (ending in /v1) and add
+# --allow-agent-host <its host>.
+agent_setup_timeout_multiplier: 10
+agents:
+  - name: codex
+    model_name: "gpt-6.1-sol"
+    extra_allowed_hosts: ["api.openai.com"]
+    kwargs:
+      version: "0.164.0"
+      reasoning_effort: xhigh
+      web_search: disabled
+      config:
+        model_context_window: 1050000
+    env:
+      OPENAI_API_KEY: "${OPENAI_API_KEY}"
+      OPENAI_BASE_URL: "${OPENAI_BASE_URL:-https://api.openai.com/v1}"

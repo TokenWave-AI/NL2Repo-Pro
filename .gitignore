@@ -1,0 +1,4 @@
+# Tasks and images fetched by scripts/fetch.sh, and Harbor job results
+NL2Repo-Pro/
+jobs/
+__pycache__/

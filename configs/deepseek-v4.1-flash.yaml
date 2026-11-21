@@ -1,0 +1,27 @@
+# DeepSeek V4.1 Flash in Claude Code, set up as in the settings table of the README.
+#
+#   export ANTHROPIC_API_KEY=... ANTHROPIC_BASE_URL=https://<endpoint host>
+#   harbor run -c configs/deepseek-v4.1-flash.yaml -p NL2Repo-Pro/run --allow-agent-host <endpoint host>
+#
+# The endpoint serves the model through the Anthropic Messages API. Give its root, without /v1.
+agent_setup_timeout_multiplier: 10
+agents:
+  - name: claude-code
+    model_name: "deepseek-v4.1-flash"
+    kwargs:
+      version: "2.1.311"
+      reasoning_effort: xhigh
+      disallowed_tools: "WebSearch,WebFetch"
+    env:
+      ANTHROPIC_API_KEY: "${ANTHROPIC_API_KEY}"
+      ANTHROPIC_BASE_URL: "${ANTHROPIC_BASE_URL}"
+      # Claude Code assumes a 200K window for a model it does not know.
+      CLAUDE_CODE_MAX_CONTEXT_TOKENS: "1000000"
+      # Background subagents finish before the run ends.
+      CLAUDE_CODE_PRINT_BG_WAIT_CEILING_MS: "0"
+      # No Claude model stands in for the tested model.
+      CLAUDE_CODE_NO_MODEL_FALLBACK: "1"
+      # With a base URL set, Harbor points the opus, sonnet, haiku and subagent aliases at
+      # model_name. These two cover the remaining aliases.
+      ANTHROPIC_DEFAULT_FABLE_MODEL: "deepseek-v4.1-flash"
+      ANTHROPIC_SMALL_FAST_MODEL: "deepseek-v4.1-flash"
