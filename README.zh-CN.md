@@ -22,7 +22,7 @@ NL2Repo-Pro 是一个评测编程 agent 从零构建生产级规模代码库的�
 基准共 150 道题，覆盖 Python、Go、Rust、Java 和 JavaScript。代码库源码行数的中位数是 74K 行。
 
 <p align="center"><img src="assets/task.svg" alt="一道题及其评分方式" width="820"></p>
-<p align="center"><sub>一道题及其评分方式。图中的例子仅作示意。题目文件里把 feature 称为 capability，把层称为 group。</sub></p>
+<p align="center"><sub>一道题及其评分方式。一个测试计入它直接调用的每个 feature，一个 feature 的测试全部通过才算被接受：图中 87% 的计分测试通过，但 64 个 feature 中只有 32 个被接受。图中的例子仅作示意。题目文件里把 feature 称为 capability，把层称为 group。</sub></p>
 
 本仓库包含我们评测过的各系统的 Harbor 配置、一个下载题目的脚本和一个汇总结果的脚本。题目及其评分代码放在 [Hugging Face](https://huggingface.co/datasets/Tokenwave-AI/NL2Repo-Pro) 上。每道题都是标准的 [Harbor](https://github.com/laude-institute/harbor) 题目目录。
 

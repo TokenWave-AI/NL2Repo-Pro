@@ -22,7 +22,7 @@ NL2Repo-Pro is a benchmark for coding agents building production-scale libraries
 The benchmark has 150 tasks in Python, Go, Rust, Java and JavaScript. The median library has 74K lines of source.
 
 <p align="center"><img src="assets/task.svg" alt="A task and its grading" width="820"></p>
-<p align="center"><sub>A task and its grading. The example is illustrative. Task files call a feature a capability and a layer a group.</sub></p>
+<p align="center"><sub>A task and its grading. A test counts for every feature it calls directly, and a feature is accepted only when all of its tests pass: here 87% of the graded tests pass, yet only 32 of 64 features are accepted. The example is illustrative, and task files call a feature a capability and a layer a group.</sub></p>
 
 This repository holds the Harbor configs of the systems we evaluated, a script to download the tasks and a script to summarize the results. The tasks, with their grading code, are on [Hugging Face](https://huggingface.co/datasets/Tokenwave-AI/NL2Repo-Pro). Every task is a standard [Harbor](https://github.com/laude-institute/harbor) task directory.
 
