@@ -64,6 +64,8 @@ python scripts/summarize.py jobs
 
 `fetch.sh` 会下载题目及其两个 Docker 镜像，用 `SHA256SUMS` 校验，把题目解压到 `NL2Repo-Pro/run/`，再加载镜像。参数也可以是一种语言（`scripts/fetch.sh python`）或 `all`。镜像没有发布到任何镜像仓库，`docker load` 会给它们加上 `task.toml` 里使用的本地名称。请保持镜像名称和 `task.toml` 不变，改动过的题目就不再是这里计分的题目。
 
+少数测试对机器负载敏感。同时运行很多题时，如果参考答案没有得到 1.0，请用 `-n` 降低并发再跑，例如 `-n 1`。
+
 ## 运行 agent
 
 `configs/` 里为表中每个系统各放了一份 Harbor job 配置，设置见下文。

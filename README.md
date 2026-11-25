@@ -64,6 +64,8 @@ python scripts/summarize.py jobs
 
 `fetch.sh` downloads the task and its two Docker images, checks them against `SHA256SUMS`, unpacks the task into `NL2Repo-Pro/run/` and loads the images. It also takes a language (`scripts/fetch.sh python`) or `all`. The images are not in any registry. `docker load` gives them the local names that `task.toml` uses. Keep the names and `task.toml` as they are, since a changed task is not the task scored here.
 
+A few tests are sensitive to machine load. If the reference solution scores below 1.0 when many tasks run at once, run fewer at a time with `-n`, for instance `-n 1`.
+
 ## Running an agent
 
 `configs/` holds one Harbor job config for each system in the table, with the settings below.
