@@ -10,8 +10,8 @@
 # NL2Repo-Pro
 
 <p align="center">
-  <img src="assets/icons/tokenwave.svg" alt="" height="16" align="absmiddle"> Blog ·
-  <img src="assets/icons/arxiv.svg" alt="" height="16" align="absmiddle"> Paper ·
+  <a href="https://tokenwave-ai.github.io/NL2Repo-Pro/"><img src="assets/icons/tokenwave.svg" alt="" height="16" align="absmiddle"> Blog</a> ·
+  <img src="assets/icons/arxiv.svg" alt="" height="16" align="absmiddle"> Paper (soon) ·
   <a href="https://huggingface.co/datasets/Tokenwave-AI/NL2Repo-Pro"><img src="assets/icons/huggingface.svg" alt="" height="16" align="absmiddle"> Dataset</a> ·
   <a href="#quick-start">Quick start</a> ·
   <a href="README.zh-CN.md">中文</a>
@@ -24,7 +24,7 @@ The benchmark has 150 tasks in Python, Go, Rust, Java and JavaScript. The median
 <p align="center"><img src="assets/task.svg" alt="A task and its grading" width="820"></p>
 <p align="center"><sub>A task and its grading. A test counts for every feature it calls directly, and a feature is accepted only when all of its tests pass: here 87% of the graded tests pass, yet only 32 of 64 features are accepted. The example is illustrative, and task files call a feature a capability and a layer a group.</sub></p>
 
-This repository holds the Harbor configs of the systems we evaluated, a script to download the tasks and a script to summarize the results. The tasks, with their grading code, are on [Hugging Face](https://huggingface.co/datasets/Tokenwave-AI/NL2Repo-Pro). Every task is a standard [Harbor](https://github.com/laude-institute/harbor) task directory.
+This repository holds the Harbor configs of the systems we evaluated, a script to download the tasks, a script to summarize the results, and the project page (`docs/`). The tasks, with their grading code, are on [Hugging Face](https://huggingface.co/datasets/Tokenwave-AI/NL2Repo-Pro). Every task is a standard [Harbor](https://github.com/laude-institute/harbor) task directory.
 
 ## Results
 
@@ -124,4 +124,4 @@ The code in this repository is under the [Apache License 2.0](LICENSE). Each tas
 
 ## Citation
 
-Coming with the paper.
+Coming with the arXiv version.
